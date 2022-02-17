@@ -31,3 +31,16 @@ h2 {
     text-align: center;
     font-weight: bold;
 }
+/* Image */
+.featured-image {
+    width: 100%;
+    max-height: 300px;
+    object-fit: cover;
+    object-position: center;
+ }
+
+ /* Profile Img */
+ .profile img {
+    width: 200px;
+ }
+
