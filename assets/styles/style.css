@@ -2,6 +2,8 @@
 
 body {
     font-family: 'Quicksand', sans-serif;
+    margin: 0;
+    padding: 0;
 }
 h2 {
     color: #00a2c6
@@ -78,4 +80,9 @@ h2 {
     font-weight: 400;
     text-decoration: none;
     color: white;
+ }
+
+ /* Main */
+ main {
+    padding: 20px;
  }
