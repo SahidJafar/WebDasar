@@ -10,8 +10,24 @@ h2 {
  h3 {
     color: #00a2c6
  }
- footer{
-     padding: 20px;
-     color: white;
-     background-color: #00a2c6;
+ /* Navbar */
+ nav a{
+     font-size: 18px;
+     font-weight: 400;
+     text-decoration: none;
  }
+ nav a:hover{
+     font-weight: bold;
+ }
+ /* Aside */
+ .profile header {
+    text-align: center;
+ }
+ /* Footer */
+ footer{
+    padding: 20px;
+    color: white;
+    background-color: #00a2c6;
+    text-align: center;
+    font-weight: bold;
+}
